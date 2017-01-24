@@ -135,6 +135,7 @@ var insertStudent = function insertStudent(student)
 
 //AGGIUNGERE QUI SOTTO NUOVE FUNZIONI
 
+//aggiungo funzione calcola voto.
 
 
 //export functions
